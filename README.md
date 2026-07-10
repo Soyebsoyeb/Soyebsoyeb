@@ -15,6 +15,7 @@
 - 💬 Ask me about **React, Node.js, Python, and Docker**
 - 📫 How to reach me: **hoquesoyeb9@gmail.com**
 - ⚡ Fun fact: **I love solving complex problems with elegant code**
+- ✍️ I write articles on **[Medium](https://medium.com/@workemailsoyeb)**
 
 ---
 
@@ -79,6 +80,9 @@
   </a>
   <a href="https://github.com/Soyebsoyeb" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+  <a href="https://medium.com/@workemailsoyeb" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
   </a>
 </div>
 
