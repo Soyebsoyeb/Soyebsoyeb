@@ -22,8 +22,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soyebsoyeb&theme=merko&hide_border=true" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Soyebsoyeb&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soyebsoyeb&layout=compact&theme=merko&hide_border=true&langs_count=6" height="150" alt="languages graph" />
 </div>
 
 ---
